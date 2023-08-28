@@ -1,0 +1,24 @@
+_repo: The-Bible-object-book-b-A-book-of-object-lessons-which-are-different_71416
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolston, Clarence Herbert
+    gutenberg_agent_id: '56221'
+    url: http://www.gutenberg.org/2009/agents/56221
+description: ''
+gutenberg_issued: '2023-08-16'
+identifiers:
+  gutenberg: '71416'
+language: en
+pgterms:marc905: 20230709105457woolston
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Jonathan Gregory
+publication_note: '  $aPhiladelphia :$bThe Judson Press, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Bible object book : $b A book of object lessons which are different'
+url: http://www.gutenberg.org/ebooks/71416
