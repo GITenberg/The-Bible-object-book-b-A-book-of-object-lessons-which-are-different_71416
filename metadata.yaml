@@ -1,11 +1,16 @@
 _repo: The-Bible-object-book-b-A-book-of-object-lessons-which-are-different_71416
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71416-h/images/cover.jpg
 creator:
   author:
     agent_name: Woolston, Clarence Herbert
     gutenberg_agent_id: '56221'
     url: http://www.gutenberg.org/2009/agents/56221
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71416#The-Bible-object-book-b-A-book-of-object-lessons-which-are-different
 gutenberg_issued: '2023-08-16'
 identifiers:
   gutenberg: '71416'
